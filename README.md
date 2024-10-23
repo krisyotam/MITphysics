@@ -12,7 +12,7 @@ I am currently pursuing a Bachelor’s Degree in Mathematics at Indiana Universi
 
 ## Project Overview
 
-This repository is dedicated to self learning Mathematics using [MIT Physics Curriculum](https://github.com/ossu/math). 
+This repository is dedicated to self learning Mathematics using [MIT Physics Curriculum](https://docs.google.com/document/d/1CW8sE9ywo62TN0KBZ6tZdhfpyfhgVe2CL6uUotVR1W0/edit?tab=t.0). 
 
 ## Goals
 
