@@ -4,7 +4,7 @@
 
 ---
 
-# Physics Self Study
+# Physics
 
 ## About Me
 
